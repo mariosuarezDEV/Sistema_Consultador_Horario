@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gui_uv">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/gui_uv.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
